@@ -17,7 +17,7 @@ Our application is built on a microservices architecture, enhancing its scalabil
 - **Challenges:** Creates and manages running challenges for users.
 - **Partners:** Handles partnerships and integrations with other services.
 
-<img src="architecture_overview.png" alt="Architecture_Overview" width="600"/>
+<img src="architecture_diagram.png" alt="Architecture Diagram" width="600"/>
 
 In addition to these microservices, we have a frontend repository for our user interface and a general repository that includes a system-wide library of helper functions.
 
