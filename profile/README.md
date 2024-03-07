@@ -3,8 +3,6 @@
 Welcome to the repository for our gamified running app "Blaze". Experience our app live: [Blaze](https://master.d3tdusvelb9wc3.amplifyapp.com)
 
 <img src="dashboard.png" alt="Dashboard" width="600"/>
-<img src="leaderboard.png" alt="Leaderboard" width="600"/>
-<img src="challenges.png" alt="Challenges" width="600"/>
 
 Our app is a unique application that combines the joy of running with the excitement of gaming, designed to motivate you to stay active and healthy while having fun competing in challenges and climbing up the leaderboard.
 
@@ -17,9 +15,7 @@ Our application is built on a microservices architecture, enhancing its scalabil
 - **Challenges:** Creates and manages running challenges for users.
 - **Partners:** Handles partnerships and integrations with other services.
   
-<div style="background-color:white;">
-  <img src="architecture_diagram.png" alt="Architecture Diagram" width="600"/>
-</div>
+<img src="architecture_diagram.png" alt="Architecture Diagram" width="600"/>
 
 In addition to these microservices, we have a frontend repository for our user interface and a general repository that includes a system-wide library of helper functions.
 
