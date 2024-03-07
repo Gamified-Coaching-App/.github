@@ -10,7 +10,7 @@ Our app is a unique application that combines the joy of running with the excite
 
 Our application is built on a microservices architecture, enhancing its scalability and maintainability. The system is divided into four main microservices:
 
-- **Training:** Manages individual training sessions and progress tracking.
+- **Trainings:** Manages individual training sessions and progress tracking.
 - **Leaderboard:** Keeps track of user rankings and achievements.
 - **Challenges:** Creates and manages running challenges for users.
 - **Partners:** Handles partnerships and integrations with other services.
