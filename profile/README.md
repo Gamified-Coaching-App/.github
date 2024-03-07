@@ -23,8 +23,6 @@ In addition to these microservices, we have a frontend repository for our user i
 
 We manage a total of 19 repositories with a consistent naming convention to ensure clarity and ease of navigation: `microserviceName_function`. For example, `trainings_processor`.
 
-### Repository Structure
-
 Each repository is structured to include the following:
 
 - **Code and Test Scripts:** All the necessary code files and scripts for testing functionalities.
