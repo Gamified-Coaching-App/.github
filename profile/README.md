@@ -16,8 +16,10 @@ Our application is built on a microservices architecture, enhancing its scalabil
 - **Leaderboard:** Keeps track of user rankings and achievements.
 - **Challenges:** Creates and manages running challenges for users.
 - **Partners:** Handles partnerships and integrations with other services.
-
-<img src="architecture_diagram.png" alt="Architecture Diagram" width="600"/>
+  
+<div style="background-color:white;">
+  <img src="architecture_diagram.png" alt="Architecture Diagram" width="600"/>
+</div>
 
 In addition to these microservices, we have a frontend repository for our user interface and a general repository that includes a system-wide library of helper functions.
 
